@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "role": "Astrologer",
+      "icon": "🔮"
+    },
+    {
+      "id": 2,
+      "role": "Assistant",
+      "icon": "💼"
+    },
+    {
+      "id": 3,
+      "role": "Makeup Artist",
+      "icon": "💄"
+    },
+    {
+      "id": 4,
+      "role": "Photographer",
+      "icon": "📸"
+    },
+    {
+      "id": 5,
+      "role": "Mehndi Artist",
+      "icon": "✋"
+    }
+  ]
+  
