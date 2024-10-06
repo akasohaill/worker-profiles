@@ -1,4 +1,5 @@
 # Welcome to the Worker Profile App 👋
+In this app, users can search and filter users according to categories. A great place for filtering worker profiles. 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
